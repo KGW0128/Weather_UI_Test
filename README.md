@@ -21,9 +21,8 @@ OpenWeatherMap API를 통해 실시간 날씨 정보를 받아와 Unity UI에 �
 
 ---
 
-## 🔗 주요 참조
-
-- Velog 튜토리얼  
+## 🔗 참고 자료
+ 
   👉 [Unity 날씨 API 연동하면서 UnityWebRequest 알아보기](https://velog.io/@szun8/Unity%EB%82%A0%EC%94%A8-API-%EC%97%B0%EB%8F%99%ED%95%98%EB%A9%B4%EC%84%9C-UnityWebRequest-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 
 ---
