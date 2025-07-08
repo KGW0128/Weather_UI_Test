@@ -15,6 +15,9 @@ OpenWeatherMap API를 통해 실시간 날씨 정보를 받아와 Unity UI에 �
   - 도시별 실시간 날씨 정보 호출
   - 온도, 습도, 날씨 상태 등의 정보 UI 표시
   - UnityWebRequest를 통한 비동기 API 통신 구현
+- **추가 정보**:
+  - 캐나다 Calgary
+  - 썹씨기준 데이터 받아옴
 
 ---
 
